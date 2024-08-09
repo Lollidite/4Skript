@@ -20,14 +20,15 @@ nav {
 ul li {
     list-style: none;
     display: inline-block;
-    line-height: 100px;
+    text-align: center;
 }
 
 ul li a {
     font-size: 35px;
     font-family: 'Times New Roman', Times, serif;
     color: white;
-    text-indent: 1350px;
+    text-align: center;
+    text-indent: 50%;
     display: none;
 }
 
