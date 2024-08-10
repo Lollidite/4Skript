@@ -20,11 +20,11 @@ nav {
 
 /* navigator : title header */
 .title {
-    font-size: 33px;
+    font-size: 35px;
     font-family: 'Times New Roman', Times, serif;
     line-height: 40px;
     color: white;
-    padding: 15px;
+    padding: 30px;
 }
 
 /* navigator : works on the list */
