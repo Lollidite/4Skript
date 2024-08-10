@@ -28,7 +28,7 @@ nav {
 /* navigator : works on the list */
 .title-nav li {
     list-style: none;
-    line-height: 80px;
+    line-height: 50px;
     display: block;
     float: left;
 }
@@ -39,5 +39,5 @@ nav {
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
     color: white;
-    padding: 1000px;
+    padding: 50%;
 }
