@@ -25,6 +25,7 @@ nav {
     list-style: none;
     line-height: 80px;
     display: block;
+    float: left;
 }
 
 /* navigator : works on the text */
