@@ -16,6 +16,7 @@ nav {
 .title {
     font-size: 33px;
     font-family: 'Times New Roman', Times, serif;
+    line-height: 80px;
     color: white;
 }
 
