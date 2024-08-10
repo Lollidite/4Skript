@@ -6,7 +6,9 @@ body {
 .wrapper {
     margin: 0 auto;
     width: 1000px;
+    height: 500px;
     background-color: rgb(59, 57, 57);
+    
 }
 
 /* navigator */
