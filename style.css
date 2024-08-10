@@ -20,7 +20,7 @@ nav {
 .title {
     font-size: 33px;
     font-family: 'Times New Roman', Times, serif;
-    line-height: 80px;
+    line-height: 40px;
     color: white;
     padding: 15px;
 }
@@ -28,7 +28,7 @@ nav {
 /* navigator : works on the list */
 .title-nav li {
     list-style: none;
-    line-height: 50px;
+    line-height: 40px;
     display: block;
     float: left;
 }
