@@ -3,6 +3,12 @@ body {
     background-color: rgb(59, 57, 57);
 }
 
+.links {
+    font-size: 25px;
+    color: rgb(71, 138, 160);
+    text-align: center;
+}
+
 .wrapper {
     margin: 0 auto;
     width: 1000px;
@@ -43,10 +49,4 @@ nav {
     color: white;
     text-align: center;
     line-height: 30px;
-}
-
-.links {
-    font-size: 25px;
-    color: gold;
-    text-align: center;
 }
