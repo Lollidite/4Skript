@@ -55,3 +55,11 @@ ul li ul.dropdown {
     background-color: rgb(124, 124, 100);
     display: none
 }
+
+ul li a:hover {
+    background-color: white;
+}
+
+ul li:hover ul.dropdown {
+    background-color: white;
+}
