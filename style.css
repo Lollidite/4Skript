@@ -30,7 +30,8 @@ nav {
 .front-h1 {          
     font-size: 40px;
     color: white;
+    text-align: center;
 }
 .front-p-space {
-    line-height: 20px;
+    text-align: left;
 }
