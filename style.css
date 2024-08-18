@@ -46,11 +46,11 @@ ul li a {
     font-size: 20px;
 }
 
-ul.dropdown li {
+ul li ul.dropdown li {
     display: block;
 }
 
-ul li.dropdown {
+ul li ul.dropdown {
     width: 100%;
     position: absolute;
     display: none
