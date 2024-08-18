@@ -42,16 +42,19 @@ nav {
 /* front page */
 .front-title {
     font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
     color: white;
     text-align: center;    
 }
 .front-h1 {          
     font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
     color: white;
     text-align: center;
 }
 .front-p {
     font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
     color: white;
     text-align: center;
     line-height: 30px;
