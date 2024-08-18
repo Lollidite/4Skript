@@ -27,8 +27,11 @@ nav {
 }
 
 /* front page */
-.front-h1{          
+.front-h1 {          
     font-size: 40px;
     color: white;
     padding: 50%;
+}
+.front-p-space {
+    line-height: 5%;
 }
