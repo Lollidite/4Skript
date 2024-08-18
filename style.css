@@ -44,3 +44,9 @@ nav {
     text-align: center;
     line-height: 30px;
 }
+
+.links {
+    font-size: 25px;
+    color: gold;
+    text-align: center;
+}
