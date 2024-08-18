@@ -9,12 +9,6 @@ body {
     text-align: center;
 }
 
-.source {
-    font-size: 14px;
-    color: rgb(71, 138, 160);
-    text-align: center;    
-}
-
 .wrapper {
     margin: 0 auto;
     width: 1000px;
