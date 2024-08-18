@@ -3,7 +3,6 @@ body {
     background-color: rgb(59, 57, 57);
 }
 
-
 .wrapper {
     margin: 0 auto;
     width: 1000px;
@@ -53,5 +52,6 @@ ul li ul.dropdown li {
 ul li ul.dropdown {
     width: 100%;
     position: absolute;
+    background-color: rgb(124, 124, 100);
     display: none
 }
